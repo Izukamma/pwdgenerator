@@ -1,3 +1,3 @@
 # pwdgenerator
 
-Thsi is just a ramdom password generator
+This is just a ramdom password generator
