@@ -1,4 +1,4 @@
 # pwdgenerator
 
-This is just a ramdom password generator
-https://github.com/Izukamma/pwdgenerator
+My ramdom password generator
+ https://izukamma.github.io/pwdgenerator/
